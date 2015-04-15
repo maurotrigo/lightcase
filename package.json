@@ -1,5 +1,5 @@
-﻿{
-  "name": "lightcase",
+{
+  "name": "mauro-lightcase",
   "description": "The smart and flexible Lightbox Plugin.",
   "keywords": [
     "jquery-plugin",
@@ -11,13 +11,21 @@
   "dependencies": {
     "jquery": ">=1.5.0"
   },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-cssjoin": "^0.3.0"
+  },
   "author": "Cornel Boppart (https://github.com/cbopp-art)",
   "license": "GPL-2.0+",
-  "main": "lightcase.js",
+  "main": "dist/lightcase.min.js",
   "homepage": "http://cornel.bopp-art.com/lightcase/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cbopp-art/lightcase.git"
+    "url": "https://github.com/maurotrigo/lightcase.git"
   },
   "bugs": {
     "url": "https://github.com/cbopp-art/lightcase/issues",

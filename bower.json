@@ -1,0 +1,35 @@
+{
+  "name": "mauro-lightcase",
+  "main": [
+    "./dist/js/lightcase.js",
+    "./dist/js/lightcase.min.js",
+    "./dist/css/lightcase.min.css",
+    "./dist/fonts/lightcase.eot",
+    "./dist/fonts/lightcase.svg",
+    "./dist/fonts/lightcase.ttf",
+    "./dist/fonts/lightcase.woff"
+  ],
+  "version": "2.0.3",
+  "homepage": "https://github.com/maurotrigo/lightcase",
+  "authors": [
+    "Mauro Trigo <mauro.trigo@gmail.com>"
+  ],
+  "description": "The smart and flexible Lightbox Plugin.",
+  "keywords": [
+    "jquery-plugin",
+    "lightbox",
+    "window",
+    "popup"
+  ],
+  "license": "GPL-2.0+",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.5.0"
+  }
+}
