@@ -9,7 +9,7 @@
     "./dist/fonts/lightcase.ttf",
     "./dist/fonts/lightcase.woff"
   ],
-  "version": "2.0.4",
+  "version": "2.0.5",
   "homepage": "https://github.com/maurotrigo/lightcase",
   "authors": [
     "Mauro Trigo <mauro.trigo@gmail.com>"
